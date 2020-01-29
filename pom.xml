@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>fr.epsi.b3</groupId>
 	<artifactId>exo-java-qui-marche</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>3.2.6-SNAPSHOT</version>
 
 	<developers>
 		<developer>
